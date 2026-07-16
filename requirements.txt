@@ -1,0 +1,9 @@
+streamlit>=1.32
+streamlit-folium>=0.20
+folium>=0.15
+geopandas>=0.14
+shapely>=2.0
+networkx>=3.2
+pyproj>=3.6
+pyogrio>=0.7
+numpy
